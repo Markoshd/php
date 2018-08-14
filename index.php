@@ -2,8 +2,7 @@
 
 echo "Olá Mundo!";
 
-echo "OK!";
-
+echo "Vamos lá!";
 
 ?>
 
